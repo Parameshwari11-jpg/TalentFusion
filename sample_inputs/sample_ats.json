@@ -1,0 +1,38 @@
+{
+  "_comment": "Sample ATS JSON — demonstrates multiple field name conventions (camelCase, snake_case, alternate names).",
+  "candidateName": "john doe",
+  "emailAddress": "john.doe@example.com",
+  "contact_phone": "+1-650-555-0192",
+  "current_location": "San Francisco, California, United States",
+  "jobTitle": "Senior Software Engineer",
+  "yearsOfExperience": 6,
+  "technical_skills": ["Python", "JS", "React.js", "node", "PostgreSQL", "Docker", "AWS EC2", "Git"],
+  "linkedin_url": "https://www.linkedin.com/in/johndoe",
+  "github_url": "https://github.com/johndoe",
+  "work_experience": [
+    {
+      "company": "Google LLC",
+      "title": "Software Engineer II",
+      "start": "Jan 2021",
+      "end": "Present",
+      "description": "Developed scalable microservices using Python and Kubernetes. Led a team of 4 engineers."
+    },
+    {
+      "company": "Startup Inc.",
+      "title": "Junior Developer",
+      "start": "06/2019",
+      "to": "December 2020",
+      "description": "Built REST APIs using Node.js and Express. Worked on MongoDB integrations."
+    }
+  ],
+  "education": [
+    {
+      "school": "University of California, Berkeley",
+      "degree": "Bachelor of Science",
+      "major": "Computer Science",
+      "start": "August 2015",
+      "graduation_date": "May 2019",
+      "cgpa": 3.8
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "_comment": "Maps canonical field names to all known ATS vendor aliases. Add new aliases here — no code changes required.",
+  "name_mappings": {
+    "full_name": [
+      "full_name", "name", "candidate_name", "applicant_name",
+      "fullName", "candidateName", "applicantName", "contact_name",
+      "firstName_lastName", "display_name"
+    ],
+    "emails": [
+      "emails", "email", "email_address", "emailAddress",
+      "contact_email", "primary_email", "email_id"
+    ],
+    "phones": [
+      "phones", "phone", "phone_number", "phoneNumber",
+      "contact_phone", "mobile", "cell", "mobile_number",
+      "telephone", "tel", "contact_number"
+    ],
+    "location": [
+      "location", "address", "current_location", "currentLocation",
+      "city", "city_state", "residence", "home_address"
+    ],
+    "headline": [
+      "headline", "title", "job_title", "current_title",
+      "position", "jobTitle", "current_position", "role",
+      "designation", "professional_title"
+    ],
+    "years_experience": [
+      "years_experience", "years_of_experience", "experience_years",
+      "yearsOfExperience", "total_experience", "exp_years",
+      "work_experience_years"
+    ],
+    "skills": [
+      "skills", "skill_set", "skillSet", "technical_skills",
+      "technicalSkills", "competencies", "key_skills",
+      "technologies", "tech_stack", "expertise"
+    ],
+    "experience": [
+      "experience", "work_experience", "workExperience",
+      "employment_history", "employmentHistory", "jobs",
+      "work_history", "career_history"
+    ],
+    "education": [
+      "education", "education_history", "educationHistory",
+      "qualifications", "academic", "academic_history",
+      "educational_background"
+    ],
+    "links": [
+      "links", "social_links", "socialLinks", "urls",
+      "profiles", "online_profiles", "web_presence"
+    ],
+    "linkedin": [
+      "linkedin", "linkedin_url", "linkedinUrl", "linked_in",
+      "linkedIn", "linkedin_profile"
+    ],
+    "github": [
+      "github", "github_url", "githubUrl", "git_hub",
+      "github_profile", "gh_url"
+    ],
+    "portfolio": [
+      "portfolio", "portfolio_url", "portfolioUrl",
+      "website", "personal_website", "personal_site"
+    ]
+  },
+  "date_fields": [
+    "start_date", "end_date", "graduation_date", "from", "to",
+    "startDate", "endDate", "start", "end", "from_date", "to_date"
+  ],
+  "list_fields": ["skills", "emails", "phones"],
+  "experience_sub_fields": {
+    "company": ["company", "employer", "organization", "company_name", "org"],
+    "title": ["title", "role", "position", "job_title", "designation"],
+    "start_date": ["start_date", "from", "startDate", "start", "from_date"],
+    "end_date": ["end_date", "to", "endDate", "end", "to_date"],
+    "description": ["description", "responsibilities", "summary", "details", "about"],
+    "location": ["location", "city", "office_location"]
+  },
+  "education_sub_fields": {
+    "institution": ["institution", "school", "university", "college", "institute", "alma_mater"],
+    "degree": ["degree", "qualification", "level", "type"],
+    "field_of_study": ["field_of_study", "major", "subject", "discipline", "stream"],
+    "start_date": ["start_date", "from", "startDate", "start"],
+    "end_date": ["end_date", "to", "endDate", "end", "graduation_date"],
+    "gpa": ["gpa", "cgpa", "grade", "score", "percentage"]
+  }
+}

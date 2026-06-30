@@ -1,0 +1,52 @@
+CONTACT TEXT:
+SHANGARANARAYANAN M
+Coimbatore, Tamil Nadu, 640132
+7010251218 shangareshwar@gmail.com LinkedIn
+Education
+Bharathiyar HI-TECH International CBSE School June 2021 – March 2023
+HSC, Percentage: 92 Salem, Tamil Nadu
+Karpagam College of Engineering September 2023 – Present
+Bachelor of Technology in Artificial Intelligence and Data Science, CGPA: 8.35 Coimbatore, Tamil Nadu
+Relevant Coursework
+• Data Science • Machine Learning • Artificial Intelligence • Computer Vision
+• Deep Learning • Database Management • MLOPS • Generative AI
+• NLP • Data Structures
+Experience
+EdVedha Edutech Pvt. Ltd. March 2024 – May 2024
+AICTE approved Data Science Intern Gachibowli, Telangana
+• Assisted in data collection, cleaning, and exploratory data analysis to support model development and business insights.
+• Applied machine learning algorithms using Python, Pandas, Scikit-learn and seaborn for predictive and analytics tasks.
+• Contributed to dashboard creation and visualization using tools like Tableau and Matplotlib for data-driven decision-making.
+Optimus Technocrates Pvt. Ltd. September 2024
+Web Development Intern Salem, Tamil Nadu
+• Developed responsive web pages using HTML, CSS, and JavaScript with cross-browser support.
+• Built and integrated dynamic features and REST APIs to handle user interactions and data flow efficiently.
+• Assisted in debugging, optimizing, and deploying web applications using best development practices.
+Projects
+AI Powered Voice Assistant (Sam) | Python, Deep Learning, NLP
+• Developed an AI-powered voice assistant using Python with speech recognition and natural language processing.
+• Implemented wake word detection, conversational memory, and command execution for interactive voice automation.
+• Built an intelligent chatbot using DialoGPT and edge-tts for human-like voice communication responses.
+SDG Goal 2 (2023-2024) Dashboard Analysi s | Tableau
+• Built an interactive Tableau/Power BI dashboard showing state-wise SDG-2 (Zero Hunger) performance in India using maps,
+charts, and KPIs.
+• Visualized nutrition, maternal health, and agricultural productivity data to compare high- and low-performing states.
+• Enabled data-driven insights through filters, color-coded performance levels, and year-wise trends.
+DataDNA | React, Fast API, Entity Resolution | Winner at AIM’26 by Infynd
+• Developed a healthcare entity resolution system using FastAPI to unify fragmented patient clinical records.
+• Implemented probabilistic matching algorithms for duplicate detection, conflict resolution, and golden record creation.
+• Built a React dashboard enabling real-time monitoring, analytics visualization and AI-powered data exploration.
+AutoPoster | N8N, Agentic AI
+• Developed an agentic AI system using N8N to automate multi-platform social media content posting.
+• Implemented autonomous AI agents for media branding, scheduling, and decision-based post execution.
+Technical Skills
+Languages/Development: Python, Java, HTML/CSS, SQL.
+Databases: MySQL, Postgre SQL, Snowflake.
+Tools/Frameworks: Excel, Tableau, Power BI, Docker, N8N, Ollama, LLM, Agentic AI, Gitbash.
+Achievements and Certifications
+• Sales Force Champion • Data Analysis Certification (Qlik) • Winner at AIM’26 Hackathon
+• NPTEL Certification (5% • Represented Tamil Nadu in Roller • IoT workshop at IIT Madras by
+Topper at 1 course) Skating Basket Ball twice Top Engineers
+
+LINKS:
+None

@@ -1,0 +1,23 @@
+{
+  "_comment": "Sample output projection config — demonstrates field selection, renaming, and policy options.",
+  "fields": [
+    "candidate_id",
+    "full_name",
+    "emails",
+    "phones",
+    "location",
+    "headline",
+    "years_experience",
+    "skills",
+    "experience",
+    "education"
+  ],
+  "rename": {
+    "full_name": "name",
+    "years_experience": "total_experience_years",
+    "headline": "current_role"
+  },
+  "include_confidence": true,
+  "include_provenance": false,
+  "missing_field_policy": "null"
+}

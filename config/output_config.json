@@ -1,0 +1,22 @@
+{
+  "_comment": "Default output projection configuration. Upload a custom version in the UI to override.",
+  "fields": [
+    "candidate_id",
+    "full_name",
+    "emails",
+    "phones",
+    "location",
+    "links",
+    "headline",
+    "years_experience",
+    "skills",
+    "experience",
+    "education",
+    "provenance",
+    "overall_confidence"
+  ],
+  "rename": {},
+  "include_confidence": true,
+  "include_provenance": true,
+  "missing_field_policy": "null"
+}

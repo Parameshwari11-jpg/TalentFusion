@@ -1,0 +1,55 @@
+{
+  "applicantRef": "ATS-2026-0341",
+  "personalInfo": {
+    "firstName": "Parameshwari",
+    "lastName": "R",
+    "mobileNo": "9787331943",
+    "contactEmail": "paramesh.ravi11@gmail.com",
+    "city": "Coimbatore",
+    "country": "IN"
+  },
+  "currentTitle": "Software Engineering Intern",
+  "expYears": "2",
+  "profileLinks": {
+    "git": "github.com/parameshwari-r",
+    "li": "linkedin.com/in/parameshwari-r"
+  },
+  "skillSet": "Java, C, C++, React, Node.js, Express.js, MongoDB, AWS EC2, AWS S3, REST APIs, Microservices, DSA",
+  "qualifications": [
+    {
+      "school": "Karpagam College of Engineering",
+      "degree": "B.E. Computer Science and Engineering",
+      "year": "2027",
+      "score": "8.79 CGPA"
+    },
+    {
+      "school": "Sathya Saai Matric Higher Secondary School",
+      "degree": "HSC",
+      "year": "2023",
+      "score": "90%"
+    }
+  ],
+  "workHistory": [
+    {
+      "employer": "Let's GameTech",
+      "role": "MERN Stack Intern",
+      "fromDate": "06/2025",
+      "toDate": "07/2025",
+      "notes": "REST API development, MongoDB operations, React frontend, AWS deployment support"
+    },
+    {
+      "employer": "InternPe",
+      "role": "Java Developer Intern",
+      "fromDate": "09/2024",
+      "toDate": "10/2024",
+      "notes": "Java backend logic, algorithm implementation, third-party API integration"
+    }
+  ],
+  "certs": [
+    "AWS Certified Cloud Practitioner (CLF-C02)",
+    "Meta React Developer - Coursera",
+    "IBM Node.js & Express"
+  ],
+  "recruiterRemarks": "Strong DSA fundamentals, consistent LeetCode activity. Good fit for backend/full-stack intern roles.",
+  "lastUpdated": "2026-06-15"
+}
