@@ -1,4 +1,4 @@
-# Multi-Source Candidate Data Transformer
+# TalentFusion
 
 > **EightFold AI — Internship Assignment**  
 > A production-quality Python pipeline that ingests candidate data from three heterogeneous sources and produces a single, trusted canonical profile.
